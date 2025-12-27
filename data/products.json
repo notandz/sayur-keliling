@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Brokoli Segar",
+        "price": 12000,
+        "unit": "Kg",
+        "market": "Pasar Badung",
+        "image": "🥦",
+        "vendor": "siti"
+    },
+    {
+        "name": "Wortel Impor",
+        "price": 15000,
+        "unit": "Kg",
+        "market": "Pasar Badung",
+        "image": "🥕",
+        "vendor": "siti"
+    },
+    {
+        "name": "Daging Ayam",
+        "price": 35000,
+        "unit": "Kg",
+        "market": "Pasar Kreneng",
+        "image": "🍗",
+        "vendor": "siti"
+    },
+    {
+        "name": "Telur Ayam",
+        "price": 2000,
+        "unit": "Pcs",
+        "market": "Pasar Kreneng",
+        "image": "🥚",
+        "vendor": "siti"
+    },
+    {
+        "name": "Ikan Tongkol",
+        "price": 25000,
+        "unit": "Kg",
+        "market": "Pasar Sanglah",
+        "image": "🐟",
+        "vendor": "siti"
+    },
+    {
+        "name": "Cabai Rawit",
+        "price": 5000,
+        "unit": "Ons",
+        "market": "Pasar Sanglah",
+        "image": "🌶️",
+        "vendor": "siti"
+    }
+]

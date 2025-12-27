@@ -1,0 +1,6 @@
+.env
+.git
+.gitignore
+*.sql
+test_db.php
+data/

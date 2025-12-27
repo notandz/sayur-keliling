@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "password": "$2a$12$YroXmbwgU1IOGR/5IF5C5OfdpNNYUndRC1brQzqhkqc1koz7Kdsky",
+        "role": "courier",
+        "name": "Bli Kurir"
+    },
+    {
+        "username": "siti",
+        "password": "$2a$12$YroXmbwgU1IOGR/5IF5C5OfdpNNYUndRC1brQzqhkqc1koz7Kdsky",
+        "role": "vendor",
+        "name": "Bu Siti"
+    },
+    {
+        "username": "budi",
+        "password": "$2a$12$YroXmbwgU1IOGR/5IF5C5OfdpNNYUndRC1brQzqhkqc1koz7Kdsky",
+        "role": "customer",
+        "name": "Pak Budi"
+    }
+]

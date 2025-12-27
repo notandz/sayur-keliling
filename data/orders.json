@@ -1,0 +1,83 @@
+[
+    {
+        "order_id": "ORD-1703401001",
+        "customer_name": "Pak Budi",
+        "phone": "081234567890",
+        "address": "Jl. Nangka Selatan No. 10",
+        "status": "pending",
+        "lat": -8.6397,
+        "lng": 115.2238,
+        "items": [
+            {
+                "name": "Brokoli Segar",
+                "price": 12000,
+                "unit": "Kg",
+                "market": "Pasar Badung",
+                "image": "🥦",
+                "vendor": "siti"
+            },
+            {
+                "name": "Daging Ayam",
+                "price": 35000,
+                "unit": "Kg",
+                "market": "Pasar Kreneng",
+                "image": "🍗",
+                "vendor": "siti"
+            }
+        ],
+        "created_at": "2025-12-24 08:00:00"
+    },
+    {
+        "order_id": "ORD-1703401002",
+        "customer_name": "Pak Budi",
+        "phone": "081234567890",
+        "address": "Jl. Teuku Umar No. 55",
+        "status": "completed",
+        "courier": "admin",
+        "lat": -8.6700,
+        "lng": 115.2100,
+        "items": [
+            {
+                "name": "Ikan Tongkol",
+                "price": 25000,
+                "unit": "Kg",
+                "market": "Pasar Sanglah",
+                "image": "🐟",
+                "vendor": "siti",
+                "pickup_status": "picked_up"
+            },
+            {
+                "name": "Cabai Rawit",
+                "price": 5000,
+                "unit": "Ons",
+                "market": "Pasar Sanglah",
+                "image": "🌶️",
+                "vendor": "siti",
+                "pickup_status": "picked_up"
+            }
+        ],
+        "created_at": "2025-12-24 09:30:00"
+    },
+    {
+        "order_id": "ORD-1703401003",
+        "customer_name": "Pak Budi",
+        "phone": "081234567890",
+        "address": "Jl. Diponegoro No. 12",
+        "status": "completed",
+        "courier": "admin",
+        "lat": -8.6600,
+        "lng": 115.2200,
+        "items": [
+            {
+                "name": "Telur Ayam",
+                "price": 20000,
+                "unit": "10 Pcs",
+                "market": "Pasar Kreneng",
+                "image": "🥚",
+                "vendor": "siti",
+                "pickup_status": "picked_up"
+            }
+        ],
+        "created_at": "2025-12-23 14:15:00"
+    }
+]
