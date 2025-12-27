@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'functions.php';
+require_once __DIR__ . '/functions.php';
 
 
 if (isset($_GET['action']) && $_GET['action'] == 'login') {
@@ -261,10 +261,10 @@ if (!in_array($page, $guestPages) && !isset($_SESSION['user'])) {
     exit;
 }
 
-$viewFile = "views/{$page}.php";
+$viewFile = __DIR__ . "/views/{$page}.php";
 if (file_exists($viewFile)) {
     $childView = $viewFile;
-    include 'layout.php';
+    include __DIR__ . '/layout.php';
 } else {
     echo "Halaman tidak ditemukan.";
 }
